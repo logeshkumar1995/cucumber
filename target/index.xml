@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="33.043">
+<testcase classname="verify adactin login details" name="verify adactin login with valid data" time="32.761">
+<system-out><![CDATA[Given user is an adactin....................................................passed
+When user should enter "logeshkumar" and "logesh1234".......................passed
+And user should enter login button..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
