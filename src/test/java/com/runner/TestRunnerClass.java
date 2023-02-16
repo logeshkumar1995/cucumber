@@ -16,5 +16,6 @@ public class TestRunnerClass {
 @AfterClass
 public static void afterClass() {
 Reporting.generateJvmReport("C:\\Users\\LogeshKumar\\eclipse-workspace\\CucumberAdactIn\\target\\index.json");	
+System.out.println();
 }
 }
